@@ -466,7 +466,7 @@ translate deutsch d08s02_71152dd8:
 translate deutsch d08s02_945e046c:
 
     # sy "There's like 5 different books on the Kama Sutra in his box!"
-    sy "Es sind um die 5 verschiedenen Ausgaben des Kamasutry in der Sammlung!"
+    sy "Es sind um die 5 verschiedenen Ausgaben des Kama Sutra in der Sammlung!"
 
 # game/code/d08/d08s02.rpy:138
 translate deutsch d08s02_1dca356a:
